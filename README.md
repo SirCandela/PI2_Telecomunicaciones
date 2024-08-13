@@ -76,6 +76,14 @@ A continuación, se presentan los gráficos de torta que muestran la presencia p
 📊 Gráfico 3: Presencia por Tecnología en Cordoba (2023)
 ![Gráfico de Cordoba](sources/Cordoba__IntTec2023.png)
 
+## ¿Còmo la fibra optica puede impactar en la velocidad del Internet?
+La notable mejora en la velocidad promedio de internet en San Luis, que pasó de 55.85 Mbps en el primer trimestre de 2023 a 174.59 Mbps en el último trimestre del mismo año, puede atribuirse en gran medida a la adopción y expansión de la fibra óptica en la región. La fibra óptica es una tecnología de transmisión de datos extremadamente eficiente, capaz de soportar velocidades mucho más altas que las tecnologías tradicionales como el ADSL o el cablemódem. Esto se debe a que la fibra óptica utiliza pulsos de luz para transmitir información a través de cables de vidrio o plástico, lo que permite una transmisión de datos a velocidades extremadamente rápidas y con menor latencia.
+
+El aumento de 118.74 Mbps en la velocidad promedio, que representa un incremento del 212.61%, sugiere que una cantidad significativa de usuarios en San Luis cambió a conexiones de fibra óptica durante 2023. Esto no solo mejoró la velocidad promedio, sino que también pudo haber incentivado a más usuarios a adoptar esta tecnología debido a la notable diferencia en rendimiento. La expansión de la infraestructura de fibra óptica en la provincia, ya sea por iniciativas gubernamentales, asociaciones público-privadas, o inversiones de empresas de telecomunicaciones, permitió que un mayor número de hogares y negocios accedieran a conexiones de alta velocidad, impulsando este crecimiento extraordinario en la velocidad promedio de internet.
+
+📊 Gráfico 3: Presencia por Tecnología en Cordoba (2023)
+![Gráfico de Cordoba](sources/Cordoba__IntTec2023.png)
+
 
 ## 📝 Conclusiones
 
