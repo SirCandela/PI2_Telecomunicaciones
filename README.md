@@ -81,8 +81,8 @@ La notable mejora en la velocidad promedio de internet en San Luis, que pasó de
 
 El aumento de 118.74 Mbps en la velocidad promedio, que representa un incremento del 212.61%, sugiere que una cantidad significativa de usuarios en San Luis cambió a conexiones de fibra óptica durante 2023. Esto no solo mejoró la velocidad promedio, sino que también pudo haber incentivado a más usuarios a adoptar esta tecnología debido a la notable diferencia en rendimiento. La expansión de la infraestructura de fibra óptica en la provincia, ya sea por iniciativas gubernamentales, asociaciones público-privadas, o inversiones de empresas de telecomunicaciones, permitió que un mayor número de hogares y negocios accedieran a conexiones de alta velocidad, impulsando este crecimiento extraordinario en la velocidad promedio de internet.
 
-📊 Gráfico 3: Presencia por Tecnología en Cordoba (2023)
-![Gráfico de Cordoba](sources/Cordoba__IntTec2023.png)
+📊 Presencia por Tecnología en San Luis (2023)
+![Gráfico de Cordoba](sources/SanLuis_Tecnologias.png)
 
 
 ## 📝 Conclusiones
