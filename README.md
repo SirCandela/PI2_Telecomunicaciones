@@ -84,6 +84,9 @@ El aumento de 118.74 Mbps en la velocidad promedio, que representa un incremento
 📊 Presencia por Tecnología en San Luis (2023)
 ![Gráfico de Cordoba](sources/SanLuis_Tecnologias.png)
 
+## DASHBOARD
+<iframe title="CAMILO" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMTY0ZWEwZDAtZTQxNi00NDAyLTg3YzEtYjVkZGRkOGQyOTJjIiwidCI6ImNiYzJjMzgxLTJmMmUtNGQ5My05MWQxLTUwNmM5MzE2YWNlNyIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
+
 
 ## 📝 Conclusiones
 
