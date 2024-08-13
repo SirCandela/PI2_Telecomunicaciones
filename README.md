@@ -8,8 +8,11 @@ Este proyecto presenta un análisis exploratorio de datos (EDA) y visualización
 ## 📑 Contenido
 
 📜 Introducción
+
 🎯 Objetivos
+
 🛠️ Metodología
+
 📈 Resultados
 📝 Conclusiones
 🗂️ Estructura del Proyecto
