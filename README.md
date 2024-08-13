@@ -2,7 +2,7 @@
 ## Proyecto Individual No. 2 - EDA y Dashboard del Contexto General del Internet en Argentina
 ### 👤 JUAN CAMILO CANDELA COL
 
-## 🌍 Relación entre el acceso a internet y la velocidad promedio (Calidad) del mismo en provincias de Argentina
+## 🌍 Relación entre el acceso a internet y la velocidad promedio (Calidad) del mismo en provincias de Argentina.
 Este proyecto presenta un análisis exploratorio de datos (EDA) y visualización de las preferencias tecnológicas en distintas provincias de Argentina durante el año 2023. El enfoque principal está en las tres provincias con el mayor número de accesos a internet, mostrando la distribución de las tecnologías utilizadas en cada una de ellas.
 
 ## 📑 Contenido
