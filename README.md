@@ -78,23 +78,13 @@ A continuación, se presentan los gráficos de torta que muestran la presencia p
 
 
 ## 📝 Conclusiones
-  📉 Distribución de Tecnologías: Cada provincia muestra una preferencia distinta por las tecnologías de acceso a   
-     internet, lo que refleja las diferencias en infraestructura y accesibilidad.
-  
-  🔧 Implicaciones para la Industria: Estos resultados pueden ayudar a los proveedores de servicios a enfocar sus 
-     esfuerzos en mejorar o expandir ciertas tecnologías en regiones específicas.
+
+📊 Distribución de Tecnologías: El análisis de las preferencias tecnológicas por provincia revela una diversidad significativa en las elecciones de acceso a internet en Argentina. Esta variabilidad no es arbitraria, sino que refleja las diferencias profundas en infraestructura, disponibilidad de recursos, y las condiciones socioeconómicas particulares de cada región. Por ejemplo, provincias con una infraestructura más desarrollada y urbanizada tienden a preferir tecnologías como la fibra óptica, que ofrece mayores velocidades y una conexión más estable. En contraste, en regiones donde la infraestructura es más limitada, se observa una mayor dependencia de tecnologías como el ADSL o el wireless, que aunque menos avanzadas, son más accesibles y fáciles de implementar. Estas disparidades subrayan la necesidad de políticas públicas que promuevan la equidad en el acceso a tecnologías avanzadas, asegurando que no solo las zonas urbanas, sino también las rurales, puedan beneficiarse del avance digital.
+
+
+🔚 En resumen, el análisis de la distribución de tecnologías de acceso a internet en Argentina pone de manifiesto la importancia de una estrategia adaptada y consciente de las realidades regionales. La diversidad en las preferencias tecnológicas es un reflejo de las necesidades y limitaciones únicas de cada provincia, y entender estas diferencias es clave para cualquier esfuerzo de expansión o mejora del servicio. Al adoptar un enfoque centrado en las particularidades de cada región, los proveedores de internet pueden no solo mejorar su rendimiento comercial, sino también desempeñar un papel crucial en la reducción de la brecha digital y en la promoción de un desarrollo tecnológico inclusivo y equitativo en todo el país.
      
-## 🗂️ Estructura del Proyecto
-bash
-Copiar código
-├── 📁 data/
-│   │
-│   └── 📄 Internet.xlsx          
-├── 📁 src/
-│   │
-│   └── 📄 EDA_NetArg.ipynb       
-│
-├── 📄 README.md                  
+         
 
 ## 💡 Contribuciones
 Las contribuciones son bienvenidas. Puedes abrir un issue para reportar un error o enviar un pull request para proponer mejoras.
