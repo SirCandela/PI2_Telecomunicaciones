@@ -49,17 +49,31 @@ Un aumento temporal en la conectividad, seguido de un retroceso, no solo frena e
 📊 Linea de Porcentaje: Comportamiento de 6 Pronvicias durante el 2023
 ![Gráfico de 6 Provincias](sources/variacionPorcentual_6prov.png)
 
-A continuación, se presentan los gráficos de torta que muestran la preferencia por tecnología en cada una de las tres provincias seleccionadas:
+La mayoría de las provincias presentan variabilidad en los incrementos porcentuales a lo largo de los trimestres del 2023. Esta variabilidad puede deberse a cambios en la demanda de servicios, políticas gubernamentales, o fluctuaciones en la infraestructura y disponibilidad de servicios de telecomunicaciones. El análisis de los incrementos porcentuales trimestrales sugiere que mientras algunas provincias experimentan fluctuaciones significativas, otras muestran una tendencia más estable, ya sea en términos de crecimiento o decrecimiento. Estas variaciones pueden proporcionar información valiosa sobre el comportamiento del mercado y las necesidades de intervención para mejorar o estabilizar los servicios en ciertas áreas.
 
-📊 Gráfico 1: Preferencia por Tecnología en Buenos Aires (2023)
+### Tendencia Negativa en Muchos Casos
+Muchas provincias muestran decrementos en la mayoría de los trimestres, lo que sugiere una posible disminución en la penetración o uso de los servicios medidos en esos períodos.
+
+Buenos Aires:
+Muestra decrementos continuos en todos los trimestres, aunque no son tan pronunciados. Esto podría indicar una leve reducción en la adopción de los servicios, o una estabilización después de un período de crecimiento.
+
+Capital Federal:
+Tiene un comportamiento interesante, con una disminución en los primeros dos trimestres seguida de un incremento significativo en el tercer trimestre. Esto podría sugerir la implementación de nuevas tecnologías o promociones que incentivaron el uso de los servicios.
+
+
+### Tecnologías implementadas de las Provincias con mayor registros
+
+A continuación, se presentan los gráficos de torta que muestran la presencia por tecnología en cada una de las tres provincias seleccionadas:
+
+📊 Gráfico 1: Presencia por Tecnología en Buenos Aires (2023)
 ![Gráfico de Buenos Aires](sources/BuenosAires_IntTec2023.png)
 
 
-📊 Gráfico 2: Preferencia por Tecnología en Capital Federal (2023)
+📊 Gráfico 2: Presencia por Tecnología en Capital Federal (2023)
 ![Gráfico de Capital Federal](sources/CapitalFederal__IntTec2023.png)
 
 
-📊 Gráfico 3: Preferencia por Tecnología en Cordoba (2023)
+📊 Gráfico 3: Presencia por Tecnología en Cordoba (2023)
 ![Gráfico de Cordoba](sources/Cordoba__IntTec2023.png)
 
 
