@@ -41,34 +41,44 @@ En el contexto del crecimiento y la diversificación de las tecnologías de acce
 
 
 ## 📈 Resultados
+### Ponderado de la variación del 2023
+Garantizar un crecimiento sostenible en la penetración del acceso a internet en Argentina es crucial para cerrar la brecha entre áreas urbanas y rurales y asegurar que todos los sectores de la sociedad se beneficien equitativamente.
+
+Un aumento temporal en la conectividad, seguido de un retroceso, no solo frena el desarrollo, sino que también afecta la confianza en las políticas públicas y las inversiones. Un acceso constante y en crecimiento es vital para impulsar la economía digital, crear empleo, y fomentar la inclusión social, elementos esenciales para el desarrollo socioeconómico del país.
+
+
 A continuación, se presentan los gráficos de torta que muestran la preferencia por tecnología en cada una de las tres provincias seleccionadas:
 
 📊 Gráfico 1: Preferencia por Tecnología en Buenos Aires (2023)
 ![Gráfico de Buenos Aires](sources/BuenosAires_IntTec2023.png)
 
 
-📊 Gráfico 2: Preferencia por Tecnología en Provincia 2 (2023)
+📊 Gráfico 2: Preferencia por Tecnología en Capital Federal (2023)
+![Gráfico de Capital Federal](sources/CapitalFederal__IntTec2023.png)
 
-📊 Gráfico 3: Preferencia por Tecnología en Provincia 3 (2023)
+
+📊 Gráfico 3: Preferencia por Tecnología en Cordoba (2023)
+![Gráfico de Cordoba](sources/Cordoba__IntTec2023.png)
 
 
 ## 📝 Conclusiones
-  📉 Distribución de Tecnologías: Cada provincia muestra una preferencia distinta por las tecnologías de acceso a internet, lo que refleja las diferencias en          infraestructura y accesibilidad.
+  📉 Distribución de Tecnologías: Cada provincia muestra una preferencia distinta por las tecnologías de acceso a   
+     internet, lo que refleja las diferencias en infraestructura y accesibilidad.
   
-  🔧 Implicaciones para la Industria: Estos resultados pueden ayudar a los proveedores de servicios a enfocar sus esfuerzos en mejorar o expandir ciertas     
-     tecnologías en regiones específicas.
+  🔧 Implicaciones para la Industria: Estos resultados pueden ayudar a los proveedores de servicios a enfocar sus 
+     esfuerzos en mejorar o expandir ciertas tecnologías en regiones específicas.
      
 ## 🗂️ Estructura del Proyecto
 bash
 Copiar código
 ├── 📁 data/
 │   │
-│   └── 📄 Internet.xlsx          # Archivo de datos original
+│   └── 📄 Internet.xlsx          
 ├── 📁 src/
 │   │
-│   └── 📄 EDA_NetArg.ipynb       # Código fuente del análisis y visualización
+│   └── 📄 EDA_NetArg.ipynb       
 │
-├── 📄 README.md                  # Este archivo README
+├── 📄 README.md                  
 
 ## 💡 Contribuciones
 Las contribuciones son bienvenidas. Puedes abrir un issue para reportar un error o enviar un pull request para proponer mejoras.
