@@ -46,6 +46,8 @@ Garantizar un crecimiento sostenible en la penetración del acceso a internet en
 
 Un aumento temporal en la conectividad, seguido de un retroceso, no solo frena el desarrollo, sino que también afecta la confianza en las políticas públicas y las inversiones. Un acceso constante y en crecimiento es vital para impulsar la economía digital, crear empleo, y fomentar la inclusión social, elementos esenciales para el desarrollo socioeconómico del país.
 
+📊 Linea de Porcentaje: Comportamiento de 6 Pronvicias durante el 2023
+![Gráfico de 6 Provincias](sources/variacionPorcentual_6prov.png)
 
 A continuación, se presentan los gráficos de torta que muestran la preferencia por tecnología en cada una de las tres provincias seleccionadas:
 
