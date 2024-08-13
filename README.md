@@ -44,6 +44,8 @@ En el contexto del crecimiento y la diversificación de las tecnologías de acce
 A continuación, se presentan los gráficos de torta que muestran la preferencia por tecnología en cada una de las tres provincias seleccionadas:
 
 📊 Gráfico 1: Preferencia por Tecnología en Buenos Aires (2023)
+![Gráfico de Buenos Aires](sources/BuenosAires_IntTec2023.png)
+
 
 📊 Gráfico 2: Preferencia por Tecnología en Provincia 2 (2023)
 
@@ -60,9 +62,12 @@ A continuación, se presentan los gráficos de torta que muestran la preferencia
 bash
 Copiar código
 ├── 📁 data/
+│   │
 │   └── 📄 Internet.xlsx          # Archivo de datos original
 ├── 📁 src/
+│   │
 │   └── 📄 EDA_NetArg.ipynb       # Código fuente del análisis y visualización
+│
 ├── 📄 README.md                  # Este archivo README
 
 ## 💡 Contribuciones
